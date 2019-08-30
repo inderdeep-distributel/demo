@@ -46,5 +46,13 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
+   },
+   "customer/delete": {
+      "response":"aaa123",
+      "statusCode":0,
+      "statusMessage":"Customer aaa123 deleted successfully.",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
    }
 }
