@@ -54,5 +54,15 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
+   },
+   "customer/deleteservices": {
+      "response":[
+         "1215179"
+      ],
+      "statusCode":0,
+      "statusMessage":"Subscribe Service deleted successfully",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
    }
 }
