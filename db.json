@@ -1,14 +1,12 @@
 {
-  "device": {
-    "assignDevice": {  
+  "device/assignDevice": {  
        "response":383,
        "statusCode":0,
        "statusMessage":"Device assigned to customer successfully",
        "errorCode":null,
        "errorMessage":null,
        "httpStatus":200
-    }
-  },
+    },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
