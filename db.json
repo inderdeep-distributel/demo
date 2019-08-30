@@ -1,5 +1,5 @@
 {
-  "assignDevice": {  
+  "device/assignDevice": {  
        "response":383,
        "statusCode":0,
        "statusMessage":"Device assigned to customer successfully",
