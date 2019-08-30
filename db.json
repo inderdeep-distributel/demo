@@ -22,5 +22,13 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
+   },
+   "unAssignDevice": {
+      "response":43,
+      "statusCode":0,
+      "statusMessage":"Device(s) unassigned from customer successfully.",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
    }
 }
