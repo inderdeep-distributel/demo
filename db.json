@@ -64,5 +64,13 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
+   },
+   "customer/update": {
+      "response":"1215179",
+      "statusCode":0,
+      "statusMessage":"Customer 1215179 updated successfully.",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
    }
 }
