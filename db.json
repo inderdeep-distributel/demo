@@ -30,5 +30,13 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
+   },
+   "update": {
+      "response":383,
+      "statusCode":0,
+      "statusMessage":"Device 383 updated successfully",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
    }
 }
