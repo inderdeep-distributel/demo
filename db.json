@@ -38,56 +38,6 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
-   },
-   "customer/create": {
-      "response":"aaa124",
-      "statusCode":0,
-      "statusMessage":"Customer aaa124 created successfully.",
-      "errorCode":null,
-      "errorMessage":null,
-      "httpStatus":200
-   },
-   "customer/delete": {
-      "response":"aaa123",
-      "statusCode":0,
-      "statusMessage":"Customer aaa123 deleted successfully.",
-      "errorCode":null,
-      "errorMessage":null,
-      "httpStatus":200
-   },
-   "customer/deleteservices": {
-      "response":[
-         "1215179"
-      ],
-      "statusCode":0,
-      "statusMessage":"Subscribe Service deleted successfully",
-      "errorCode":null,
-      "errorMessage":null,
-      "httpStatus":200
-   },
-   "customer/update": {
-      "response":"1215179",
-      "statusCode":0,
-      "statusMessage":"Customer 1215179 updated successfully.",
-      "errorCode":null,
-      "errorMessage":null,
-      "httpStatus":200
-   },
-   "customer/activate": {
-      "response":"MD16132",
-      "statusCode":0,
-      "statusMessage":"Customer Activated successfully",
-      "errorCode":null,
-      "errorMessage":null,
-      "httpStatus":200
-   },
-   "customer/inactivate": {
-      "response":"MD16132",
-      "statusCode":0,
-      "statusMessage":"Customer Inactivate successfully",
-      "errorCode":null,
-      "errorMessage":null,
-      "httpStatus":200
    }
 
 }
