@@ -38,5 +38,13 @@
       "errorCode":null,
       "errorMessage":null,
       "httpStatus":200
+   },
+   "customer/create": {
+      "response":"aaa124",
+      "statusCode":0,
+      "statusMessage":"Customer aaa124 created successfully.",
+      "errorCode":null,
+      "errorMessage":null,
+      "httpStatus":200
    }
 }
